@@ -10,5 +10,5 @@ either collection.
 We adopt a common experiment for evaluating this competency and test whether four commercial LLMs can reach 
 the competency level of a squirrel monekey. 
 
-The details and results are available in [this post](). Data and detailed results can be found in 
+The details and results are available in [this post](https://chaminmorikawa.substack.com/p/squirrel-monkey-vs-ai). Data and detailed results can be found in 
 `01_relative_quantity_judgement` folder.
