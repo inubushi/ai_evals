@@ -2,7 +2,7 @@
 This repository contains a series of evaluations for testing numerical competence of AI models. 
 It will be updated as and when new evaluations have been designed.
 
-## 1. Relative Quantity judgement.
+## 1. Relative Quantity judgement
 This is the numerical competency that enables an intelligent being to compare two collections of items 
 and decide which one is larger/smaller. It might not be able to determine the exact number of items in 
 either collection. 
