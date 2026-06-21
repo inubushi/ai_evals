@@ -12,3 +12,12 @@ the competency level of a squirrel monekey.
 
 The details and results are available in [this post](https://chaminmorikawa.substack.com/p/squirrel-monkey-vs-ai). Data and detailed results can be found in 
 `01_relative_quantity_judgement` folder.
+
+## 2. Numeral-Quantity mapping
+This is the numerical competency that enables an intelligent being to associate a numeral (example: "15") to the coresponding quantity (fifteen items), irrespective of the type of item.
+
+We design an experiment for evaluating this competency and test whether three commercial LLMs can reach 
+the competency level of a chimpanzee. 
+
+The details and results are available in [this post](https://chaminmorikawa.substack.com/p/do-llms-understand-numerals). Data and detailed results can be found in 
+`02_numeral_quantity_mapping` folder.
