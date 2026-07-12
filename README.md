@@ -27,5 +27,5 @@ This is the numerical competency that enables an intelligent being to accurately
 
 We design an experiment for evaluating this competency and compare the performance of four commercial LLMs with that of a rhesus monkey, chimpanzee and a five year-old. 
 
-The details and results will be available in [an Arxiv Preprint](https://) soon. Data and detailed results can be found in 
+The details and results will be available in [an Arxiv Preprint](https://) soon. The data can be found in 
 `03_counting_ability` folder.
