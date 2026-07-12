@@ -22,7 +22,7 @@ the competency level of a chimpanzee.
 The details and results are available in [this post](https://chaminmorikawa.substack.com/p/do-llms-understand-numerals). Data and detailed results can be found in 
 `02_numeral_quantity_mapping` folder.
 
-## 2. Counting ability
+## 3. Counting ability
 This is the numerical competency that enables an intelligent being to accurately count the number of items in a collection.
 
 We design an experiment for evaluating this competency and compare the performance of four commercial LLMs with that of a rhesus monkey, chimpanzee and a five year-old. 
